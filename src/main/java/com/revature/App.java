@@ -13,5 +13,7 @@ public class App
         
         FileInputStreamExample fise = new FileInputStreamExample();
         fise.fileInputStreamExample();
+
+        System.out.println("hello");
     }
 }
